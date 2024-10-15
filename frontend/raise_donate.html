@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charity Donation DApp</title>
+    <link rel="stylesheet" href="./css/card.css">
+    <link rel="stylesheet" href="./css/modal.css">
+    <!-- <script src="component_script.js"></script> -->
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/component_style.css">
+    <script src="https://cdn.jsdelivr.net/npm/ethers@5.6.0/dist/ethers.umd.min.js"></script>
+    <script src="app.js"></script>
+</head>
+
+<body onload="fetchCompletedRequests()">
+    <nav>
+        <div class="logo">
+            <img src="assets/logo.png" alt="logo" />
+            <h1>Charity and Donation</h1>
+        </div>
+        <ul>
+            <li>
+                <a href="./index.html">Home</a>
+            </li>
+            <li>
+                <a href="#">About</a>
+            </li>
+            <li>
+                <a href="./raise_request.html">Make Request</a>
+            </li>
+            <li class="donate-btn">
+                <a href="#">Donate</a>
+            </li>
+        </ul>
+        <div class="hamburger">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+    </nav>
+    <div class="menubar">
+        <ul>
+            <li>
+                <a href="./index.html">Home</a>
+            </li>
+            <li>
+                <a href="#">About</a>
+            </li>
+            <li>
+                <a href="./raise_request.html">Make Request</a>
+            </li>
+            <li>
+                <a href="#">Donate</a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="main"></div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="section" id="addContent">
+            </div>
+        </div>
+
+    </div>
+</body>
+</body>
+
+</html>
