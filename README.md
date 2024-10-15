@@ -36,10 +36,9 @@ Install hardhat with npm
     
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AbaiKumar/Charity-and-Donations-Ethereum-Blockchain-Web-Application/refs/heads/main/screenshots/Screenshot%202024-10-15%20211737.png)
 
+![alt](https://github.com/AbaiKumar/Charity-and-Donations-Ethereum-Blockchain-Web-Application/blob/main/screenshots/1.png?raw=true)
 
-![App Screenshot](https://github.com/AbaiKumar/Charity-and-Donations-Ethereum-Blockchain-Web-Application/blob/main/screenshots/Screenshot%202024-10-15%20213859.png?raw=true)
+![alt](https://github.com/AbaiKumar/Charity-and-Donations-Ethereum-Blockchain-Web-Application/blob/main/screenshots/2.png?raw=true)
 
-
-![App Screenshots](https://github.com/AbaiKumar/Charity-and-Donations-Ethereum-Blockchain-Web-Application/blob/main/screenshots/Screenshot%202024-10-15%20213930.png?raw=true)
+![alt](https://github.com/AbaiKumar/Charity-and-Donations-Ethereum-Blockchain-Web-Application/blob/main/screenshots/3.png?raw=true)
